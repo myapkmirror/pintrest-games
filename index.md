@@ -3,7 +3,7 @@
 App Store Free and safe Android APK downloads
 Enjoy the latest Android Premium apps and online Games. Get totally free. Anytime, anywhere, across your devices.
 
-### Markdown
+### SAMPLE PAGE
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
